@@ -3,15 +3,6 @@
        width="100%"
        alt="Dogs Banner">
 </p>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B18,50:142A59,100:2563EB&text=AHIAH&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20IoT&descAlignY=59&animation=fadeIn" width="100%" alt="Ahiah developer banner" />
-
-### I turn complex ideas into seamless digital experiences.
-
-Building practical, scalable applications across web, mobile, and connected devices — from intuitive interfaces to reliable backend systems and IoT prototypes.
-
-</div>
 
 ---
 
