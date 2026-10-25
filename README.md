@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="dogs.gif"
-       width="100%"
-       alt="Dogs Banner">
+  <img src="dogs.gif" width="100%" alt="Dogs Banner">
 </p>
 
 ---
 
-## 🧩 My Tech Ecosystem
+## My Tech Ecosystem
 
-### 💻 Languages & Databases (11)
+### Languages & Databases
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -22,7 +20,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Flutter](https://img.shields.io/badge/Flutter-18181B?style=flat-square&logo=flutter&logoColor=02569B)
 
-### 🛠️ Tools & Frameworks (16)
+### Tools & Frameworks
 
 ![React 19](https://img.shields.io/badge/React_19-18181B?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js 16](https://img.shields.io/badge/Next.js_16-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
@@ -43,30 +41,9 @@
 
 ---
 
-## 🚀 Featured Work
-
-| Project | Overview | My Focus |
-| --- | --- | --- |
-| [AniGrow](https://github.com/afighi/AniGrow) | AI-powered poultry and livestock guide with web/mobile apps and IoT prototypes | Backend development & IoT hardware |
-| [Likhora](https://github.com/afighi/Likhora-Mobile-App) | Mobile application supporting aspiring entrepreneurs | Mobile development |
-| Seatify | Room and seat availability visualization | Flutter & Firebase |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afighi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afighi&layout=compact&theme=github_dark&hide_border=true" alt="Top GitHub languages" />
-</div>
-
----
-
-## 🤝 Connect with Me
+## Connect with Me
 
 <a href="https://github.com/afighi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.facebook.com/jstqiI"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
-<!-- Add your verified Instagram, LinkedIn, and portfolio links here. -->
-
-<div align="center"><sub>Design with purpose. Develop with precision. 🐾</sub></div>
+<div align="center"><sub>Design with purpose. Develop with precision.</sub></div>
