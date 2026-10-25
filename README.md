@@ -1,16 +1,8 @@
-<div align="center">
-
-<img src="afighi_dog_coding_banner.gif" width="100%" alt="Cozy pixel-art dogs coding banner" />
-
-# Hey, I'm Ahiah! 🐾
-
-**Full-Stack Developer · Web · Mobile · Backend · IoT**
-
-*I turn complex ideas into seamless digital experiences.*
-
-I build thoughtful, practical applications—from intuitive interfaces to dependable backend systems and connected IoT prototypes.
-
-</div>
+<p align="center">
+  <img src="dogs.gif"
+       width="100%"
+       alt="Dogs Banner">
+</p>
 
 ---
 
